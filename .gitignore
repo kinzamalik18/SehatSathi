@@ -1,0 +1,54 @@
+# Project plan (not for repo)
+plan.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Model files (large binaries)
+*.joblib
+backend/models/
+
+# Audio files
+*.ogg
+*.mp3
+*.wav
+*.m4a
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dashboard/.env
+dashboard/.env.local
+
+# Misc
+*.log
+.vercel
