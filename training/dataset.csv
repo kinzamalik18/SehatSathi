@@ -1,0 +1,131 @@
+text,urgency_level
+"I have severe chest pain and can't breathe",emergency
+"Shortness of breath and pain radiating down my left arm",emergency
+"My 2 year old child is choking and turning blue",emergency
+"Heavy bleeding after an accident, won't stop",emergency
+"Sudden weakness on one side of face and can't speak",emergency
+"Pregnant woman in severe labor pain with heavy bleeding",emergency
+"Seizure lasting more than 5 minutes and not waking up",emergency
+"Swallowed household bleach by mistake",emergency
+"Unconscious person after falling from roof",emergency
+"Severe burn covering whole arm and chest",emergency
+"Chest tightness and sweating profusely",emergency
+"Coughing up blood in large amounts",emergency
+"Severe abdominal pain suddenly, feels like tearing",emergency
+"Head injury with loss of consciousness and vomiting",emergency
+"High fever with stiff neck and inability to touch chin to chest",emergency
+"Sudden loss of vision in one eye",emergency
+"Severe allergic reaction face swelling and difficulty breathing",emergency
+"Snake bite on leg, leg is swelling rapidly",emergency
+"Child under 5 with chest indrawing and noisy breathing",emergency
+"Extreme dizziness and irregular fast heartbeat with chest pain",emergency
+"Severe bleeding from a deep knife cut",emergency
+"Unbearable headache after head trauma",emergency
+"Convulsions in a young child with high fever",emergency
+"Difficulty breathing and blue lips",emergency
+"Sudden numbness in arm and leg on right side",emergency
+"Continuous vomiting with blood and fainting",emergency
+"Severe electric shock victim unconscious",emergency
+"Chest pain with pain in jaw and back",emergency
+"Heavy vaginal bleeding during 3rd trimester",emergency
+"Deep gash on thigh bleeding heavily",emergency
+"Severe breathlessness while sitting still",emergency
+"Child drank pesticide by mistake",emergency
+"Sudden confusion and inability to recognize family members",emergency
+"Third degree burn on leg with black charred skin",emergency
+"Fainted suddenly and pulse is very weak",emergency
+"Seizure in pregnant woman",emergency
+"Severe asthma attack inhaler not working",emergency
+"Choking on food, cannot talk or breathe",emergency
+"High fever with purple skin rash that does not fade",emergency
+"Severe crush injury to hand in farm machinery",emergency
+"Chati mein bohot shadeed dard hai aur saans nahi aa raha",emergency
+"Bachay ko saans lene mein bohot takleef ho rahi hai",emergency
+"Bohot zyada khoon beh raha hai accident ke baad",emergency
+"Jism ka ek hissa sunn ho gaya hai aur bol nahi sakta",emergency
+"Haamlaha aurat ko shadeed dard aur khoon aa raha hai",emergency
+"Dil mein shadeed bojh aur paseena aa raha hai",emergency
+"Khaansi mein bohot ziada khoon aa raha hai",emergency
+"Sarr par chot lagi aur behosh ho gaya",emergency
+"Sanp ne kaat liya hai paon par",emergency
+"Bachay ka rung neela parh raha hai",emergency
+"I have had a mild headache since this morning",monitor
+"Slight runny nose and sneezing for two days",monitor
+"Mild sore throat after drinking cold water",monitor
+"Feeling a bit tired today but no fever",monitor
+"Small scratch on finger, cleaned with water",monitor
+"Mild stomach ache after eating spicy food",monitor
+"Dry cough for one day, no fever or chest pain",monitor
+"Slight muscle soreness after working in the field",monitor
+"Minor itching on forearm after touched plant",monitor
+"Mild acidity and heartburn after dinner",monitor
+"Feeling slightly nauseous, no vomiting",monitor
+"Low grade fever 99F for a few hours",monitor
+"Mild headache from staring at sun",monitor
+"Stuffy nose in the morning",monitor
+"Slight back pain after lifting a light box",monitor
+"Mild gas problem in stomach",monitor
+"Dry lips and mild thirst",monitor
+"Small pimple on cheek, a bit red",monitor
+"Mild fatigue after long walk",monitor
+"Slight indigestion after heavy meal",monitor
+"Mild throat irritation",monitor
+"Slight knee stiffness in the morning",monitor
+"Minor paper cut on thumb",monitor
+"Mild eye strain from reading",monitor
+"Slight tickle in throat",monitor
+"Mild headache, goes away after rest",monitor
+"Watery eyes due to dust",monitor
+"Slight bloating after eating beans",monitor
+"Minor bruise on arm from bumping door",monitor
+"Mild itchiness on neck",monitor
+"Halka sa sar dard hai subah se",monitor
+"Halki chinke aur zukam hai",monitor
+"Gala halka sa kharab hai",monitor
+"Halka sa pet dard khana khane ke baad",monitor
+"Khaansi hai halki si, bukhar nahi hai",monitor
+"Thakawat ho rahi hai thori si",monitor
+"Halka sa tezabiyat ka masla hai",monitor
+"Chota sa zakhm hai finger par",monitor
+"Halka sa bukhar lag raha hai",monitor
+"Gardan mein halka sa khichao hai",monitor
+"I have had a fever and cough for 3 days",soon
+"Persistent vomiting since yesterday, can't keep water down",soon
+"Painful urination and burning sensation for 2 days",soon
+"Ear pain with yellow discharge for three days",soon
+"Persistent diarrhea for past two days with weakness",soon
+"Moderate back pain lasting more than a week",soon
+"Red swollen eye with pus discharge",soon
+"Sprained ankle while walking, swelling and pain",soon
+"Deep cut on arm needs stitches, bleeding controlled",soon
+"High fever 102F for two days with body chills",soon
+"Skin rash spreading over chest and arms for 3 days",soon
+"Toothache getting progressively worse over two days",soon
+"Swollen knee joint with pain when walking",soon
+"Persistent stomach cramps for 3 days",soon
+"Cough with green phlegm and mild fever for 4 days",soon
+"Dizziness when standing up for past few days",soon
+"Boil on leg that is growing larger and painful",soon
+"Fever that drops with medicine but returns after 4 hours",soon
+"Diarrhea and loose motions 5 times today",soon
+"Urinary frequency and lower abdominal ache",soon
+"Pain in right lower abdomen for 6 hours",soon
+"Fungal infection between toes getting worse",soon
+"Unexplained weight loss and fatigue for two weeks",soon
+"Joint pain in both hands for a week",soon
+"Persistent hoarseness of voice for 10 days",soon
+"Painful swelling behind ear",soon
+"Burn with blisters on hand",soon
+"Constipation for 4 days with discomfort",soon
+"Swollen lymph node in neck for 5 days",soon
+"Persistent itchiness all over body for a week",soon
+"Teen din se bukhar hai aur khaansi hai",soon
+"Khaansi mein balgham aa raha hai teen din se",soon
+"Peshab mein jalan aur dard hai do din se",soon
+"Kaan mein shadeed dard hai aur paani aa raha hai",soon
+"Do din se ultiyaan aur dasto ka masla hai",soon
+"Paaon mein moch aa gayi hai aur soojam hai",soon
+"Zakhm gehra hai stitches chahiye lagta hai",soon
+"Ziyada bukhar hai do din se utar nahi raha",soon
+"Daant mein shadeed dard hai kal se",soon
+"Pet ke daayein hissay mein dard hai",soon
