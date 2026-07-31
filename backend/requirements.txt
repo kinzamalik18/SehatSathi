@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+httpx
+supabase
+python-dotenv
+pydantic
+openai-whisper
+torch
+sentence-transformers
+scikit-learn
+joblib
+python-multipart
