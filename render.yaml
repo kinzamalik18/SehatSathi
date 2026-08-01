@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: sehatsaathi-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    plan: free
+    region: singapore
+    envVars:
+      - key: EMERGENCY_NUMBER
+        value: "1122"
+      - key: WHISPER_MODEL_SIZE
+        value: "base"
+      - key: EMBEDDING_MODEL_NAME
+        value: "intfloat/multilingual-e5-small"
+      - key: CLASSIFIER_HEAD_PATH
+        value: "./models/classifier_head.joblib"
+      - key: WHATSAPP_TOKEN
+        sync: false
+      - key: WHATSAPP_PHONE_NUMBER_ID
+        sync: false
+      - key: WHATSAPP_VERIFY_TOKEN
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
